@@ -1,2 +1,1 @@
-# e-commerce-web
-e-commerce web template
+Static web page developed with **HTML**, **CSS**, **SASS**, **JavaScript**.
